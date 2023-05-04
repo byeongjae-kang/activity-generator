@@ -55,7 +55,7 @@ Please copy `.env.development.example` file, create `.env.development` file, and
 
 ### Database
 
-If you are new to MongoDB, please download MongDB Compass and follow the instruction [here]("https://www.mongodb.com/docs/compass/current/")
+If you are new to MongoDB, please download MongDB Compass and follow the instruction [here](https://www.mongodb.com/docs/compass/current/)
 
 ### Install Dependencies
 
