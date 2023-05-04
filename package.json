@@ -1,0 +1,30 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=development tsnd src/index.ts --inspect",
+    "test": "jest --watchAll --no-cache"
+  },
+  "keywords": [],
+  "author": "Bart Kang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.1.0",
+    "ts-node-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/cookie-session": "^2.0.44",
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "jest": "^29.5.0"
+  }
+}
