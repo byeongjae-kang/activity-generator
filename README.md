@@ -12,10 +12,10 @@ A backend server that uses [boredapi.com](http://boredapi.com) api to generate r
         "activity": "Shred old documents you don't need anymore",
         "type": "busywork",
         "participants": 1,
-        "price": 0,
+        "price": "Free",
         "link": "",
         "key": "2430066",
-        "accessibility": 0
+        "accessibility": "High"
       }
 ```
 
